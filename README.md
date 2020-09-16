@@ -6,6 +6,7 @@
 - note your memory with image, date,time and location
 - detect if you save any memories near your current location and notify you
 - offline storage to use without internet
+- edit , delete and undelete you memory
 
 ### built with ###
 - java
@@ -13,3 +14,5 @@
 - room database
 - google map 
 - recycler view
+- mvc architecture pattern
+- singlton design pattern
